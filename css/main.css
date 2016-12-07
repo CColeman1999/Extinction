@@ -1,0 +1,49 @@
+.clear {
+	clear: both;
+}
+header {
+	font-size: 25px;
+	font-weight: 25px;
+	text-align: left;
+	font-style: 'Montserrat', sans-serif;
+	padding: 50px 5%;
+}
+
+header img {
+	width: 25%;
+	height: auto;
+	float: left;
+}
+
+header h1 {
+	float: right;
+	width: 70%;
+	padding-left: 5%;
+	margin: 0;
+}
+
+h1 {
+	color: navy;
+}
+body{
+	background-color: gold;
+	font-style: 'Oswald', sans-serif;
+}
+
+footer {
+	font-weight: 50px;
+	font-size: 20px;
+	text-decoration: bold;
+
+}
+ img {
+	width: 25%;
+	height: auto;
+	float: right;
+
+
+}
+
+p {
+	text-align: left;
+}
