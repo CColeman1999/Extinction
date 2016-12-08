@@ -1,12 +1,17 @@
 .clear {
 	clear: both;
 }
+
+#wrapper {
+	width: 70%;
+	margin: 0 auto;
+}
 header {
 	font-size: 25px;
 	font-weight: 25px;
 	text-align: left;
 	font-style: 'Montserrat', sans-serif;
-	padding: 50px 5%;
+	padding: 50px 0;
 }
 
 header img {
@@ -46,4 +51,22 @@ footer {
 
 p {
 	text-align: left;
+}
+
+section img {
+	width: 35%;
+	height: auto;
+	float: right;
+}
+
+section .text-wrap {
+	float: left;
+	width: 50%;
+	padding-right: 5%;
+	margin: 0;
+}
+
+footer {
+	text-align: center;
+	padding-top: 35px;
 }
